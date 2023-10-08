@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* src/styles.css または適切なCSSファイルに追加 */
+/* src/styles.css または適切なCSSファイルに追加 */
+.custom-badge {
+  font-size: 1.5rem;  /* 文字サイズを増やす */
+  padding: 0.5rem 1rem;  /* バッジのパディングを増やす */
+  color: #fff;  /* テキスト色を白に設定 */
+}
+
+.larger-text {
+  font-size: 1.2rem;  /* 文字サイズを1.2倍にする */
+}
